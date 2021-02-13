@@ -1,0 +1,435 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"d",
+				"d-inline-block"
+			],
+			[
+				"p",
+				"position\tproperty"
+			],
+			[
+				"al",
+				"alternate\tanimation-direction"
+			],
+			[
+				"animation-d",
+				"animation-direction\tproperty"
+			],
+			[
+				"ani",
+				"animation-iteration-count\tproperty"
+			],
+			[
+				"an",
+				"animation-duration\tproperty"
+			],
+			[
+				"bor",
+				"border-bottom\tproperty"
+			],
+			[
+				"back",
+				"background-attachment\tproperty"
+			],
+			[
+				"bac",
+				"background-image\tproperty"
+			],
+			[
+				"tex",
+				"text-decoration\tproperty"
+			],
+			[
+				"te",
+				"text-decoration\tproperty"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"margin-",
+				"margin-bottom\tproperty"
+			],
+			[
+				"ba",
+				"background\tproperty"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"backgr",
+				"background-attachment\tproperty"
+			],
+			[
+				"c",
+				"cover\tbackground-size"
+			],
+			[
+				"background",
+				"background-size\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"b",
+				"background\tproperty"
+			],
+			[
+				"re",
+				"repeat-x"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"borde",
+				"border-bottom\tproperty"
+			],
+			[
+				"paddin",
+				"padding-left\tproperty"
+			],
+			[
+				"m",
+				"margin\tproperty"
+			],
+			[
+				"margi",
+				"margin\tproperty"
+			],
+			[
+				"home",
+				"home"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"fony",
+				"font-family\tproperty"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"backg",
+				"background-image\tproperty"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"padding",
+				"padding-left\tproperty"
+			],
+			[
+				"email",
+				"email"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"bode",
+				"border-collapse\tproperty"
+			],
+			[
+				"font-",
+				"font-family\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"lis",
+				"list-style\tproperty"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"contato",
+				"CONTATO"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"C",
+				"C1493E"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 138.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/alexcosta/Desktop/desenvolvimento web/bootstrap-4.5.2-dist/index.html",
+		"/Users/alexcosta/Desktop/desenvolvimento web/CSS recursos/normalize.html",
+		"/Users/alexcosta/Desktop/desenvolvimento web/CSS recursos/recursos.html",
+		"/Users/alexcosta/Desktop/desenvolvimento web/CSS recursos/estilo.css",
+		"/Users/alexcosta/Desktop/bootstrap-4.5.2-dist/index.html",
+		"/Users/alexcosta/Desktop/desenvolvimento web/Parallax/index.html",
+		"/Users/alexcosta/Desktop/desenvolvimento web/Parallax/css/estilo.css",
+		"/index.html",
+		"/Users/alexcosta/Desktop/desenvolvimento web/Projeto chale Hotel/css/estilo.css",
+		"/Users/alexcosta/Desktop/desenvolvimento web/Projeto chale Hotel/index.html",
+		"/Users/alexcosta/Desktop/desenvolvimento web/Projeto Noticias Cidade/index.html",
+		"/Users/alexcosta/Desktop/desenvolvimento web/Projeto Noticias Cidade/fotos.html",
+		"/Users/alexcosta/Desktop/desenvolvimento web/Projeto Noticias Cidade/css/estilo.css",
+		"/Users/alexcosta/Desktop/desenvolvimento web/Projeto Noticias Cidade/brasil.html",
+		"/Users/alexcosta/Desktop/desenvolvimento web/Tecblog/CSS/estilo.css",
+		"/Users/alexcosta/Desktop/desenvolvimento web/Tecblog 2/CSS/estilo.css",
+		"/Users/alexcosta/Desktop/desenvolvimento web/CSS intermediario /css/estilo.css",
+		"/Users/alexcosta/Desktop/desenvolvimento web/CSS intermediario /seletores.html",
+		"/Users/alexcosta/Desktop/desenvolvimento web/Tecblog 2/NomadicSpirit/CSS /estilo.css",
+		"/Users/alexcosta/Desktop/desenvolvimento web/Tecblog/index.html",
+		"/tecblog",
+		"/Users/alexcosta/Desktop/desenvolvimento web/Projeto anna bella/index.html",
+		"/Users/alexcosta/Desktop/desenvolvimento web/Tecblog/elemento-flutuante.html",
+		"/Users/alexcosta/Desktop/desenvolvimento web/Tecblog/estilo.css",
+		"/Users/alexcosta/Desktop/desenvolvimento web/Tecblog/style.css",
+		"/Users/alexcosta/Desktop/desenvolvimento web/Tecblog/modelo-caixa.html",
+		"/annabella",
+		"/Users/alexcosta/Desktop/desenvolvimento web/ProjetoCSS3/GarageSale.html",
+		"/Users/alexcosta/Desktop/desenvolvimento web/ProjetoCSS3/Classes-ids.html",
+		"/Users/alexcosta/Desktop/desenvolvimento web/ProjetoCSS3/div-span.html",
+		"/Users/alexcosta/Desktop/desenvolvimento web/ProjetoCSS3/Bordas.html",
+		"/Users/alexcosta/Desktop/desenvolvimento web/ProjetoCSS3/fontes-cores.html",
+		"/Users/alexcosta/Desktop/desenvolvimento web/ProjetoCSS3/tamanhoDeTextos.html",
+		"/Users/alexcosta/Desktop/desenvolvimento web/ProjetoCSS3/Tamanho de textos",
+		"/Users/alexcosta/Desktop/desenvolvimento web/ProjetoCSS3/Classes-ids.sublime-workspace"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 71.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 169.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
