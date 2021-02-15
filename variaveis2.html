@@ -4,21 +4,22 @@
 	<meta charset="utf-8">
 	<title>JavaScript</title>
 	<script>
+		 
+		 function exibirArtigo(id, callbackSucesso , callbackErro){
+			 if(true){
+				 callbackSucesso('funcoes callback em js')
+			 }else {
+				 callbackErro('Erro')
+			 }
+		 }
 
-	var nota = prompt('Digite a nota do aluno:')
-	var faltas = prompt('Digite a quantidade de faltas:')
+		 var callbackSucesso = function(){
 
-	var media = 7
-	var faltas_maximas = 15
-
-	/* if(nota >= media && faltas <= faltas_maximas){
-		document.write('aprovado')
-	} else{
-		document.write('reprovado')
-	} */
-
-	var resultado = (nota >= media && faltas <= faltas_maximas)? 'aprovado' : 'reprovado'
-	document.write(resultado) 
+		 }
+		 var callbackErro = function(){
+		 }
+		 
+		 exibirArtigo(1,callbackSucesso, callbackErro )
 	</script>
 
 	
