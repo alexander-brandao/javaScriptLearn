@@ -20,3 +20,5 @@ document.write("Arredondamento tradiconal: ", x, "<br>")
 
 var x = Math.random()
 document.write("Numero aleatorio entre 0 e 1: ",x)
+
+//
