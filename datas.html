@@ -6,6 +6,32 @@
 	<script>
 		
         var data = new Date();
+		
+		var data1 = new Date(2017, 0, 15)
+		var data2 = new Date(2017, 1, 23)
+
+		document.write(data1.toString())
+		document.write('<hr />')
+		document.write(data2.toString())
+		document.write('<hr />')
+		document.write('<hr />')
+		// converter data em valor p/ calcular 
+		document.write(data1.getTime())
+		document.write('<hr />')
+		document.write(data2.getTime())
+		document.write('<hr />')
+		
+		// subtracao entre as duas datas
+		var diferenca = (Math.abs(data1.getTime() - data2.getTime()))/86400000
+
+		document.write(Math.ceil(diferenca))
+
+
+
+
+
+		
+		/*
 		// add um dia a data
 		document.write(data.toString())
 		data.setDate(data.getDate()+ 1)
@@ -25,7 +51,7 @@
 		data.setFullYear(data.getFullYear()+ 1)
 		document.write('<hr />')
 		document.write(data.toString())
-
+		*/
 
 	
 		/*	<!--data.getDate()
