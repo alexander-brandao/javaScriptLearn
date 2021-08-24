@@ -6,11 +6,23 @@
 	<script>
 		
         var data = new Date();
-		data.getDate()
-        document.write(data)
-        document.write(data.getMonth() + 1)
-
+		
+		document.write(data.toString())
+		data.setDate(data.getDate()+ 1)
+		document.write('<hr />')
+		document.write(data.toString())
 	
+		document.write('<br />br /><hr />')
+
+		document.write(data.toString())
+		data.setMonth(data.getMonth()+ 1)
+		document.write('<hr />')
+		document.write(data.toString())
+	
+		/*	<!--data.getDate()
+        document.write(data)
+        document.write(data.getMonth() + 1)-->
+	*/
 	</script>
 
 	
