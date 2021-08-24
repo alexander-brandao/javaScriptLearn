@@ -6,18 +6,27 @@
 	<script>
 		
         var data = new Date();
-		
+		// add um dia a data
 		document.write(data.toString())
 		data.setDate(data.getDate()+ 1)
 		document.write('<hr />')
 		document.write(data.toString())
 	
 		document.write('<br />br /><hr />')
-
+		// add um mes a data
 		document.write(data.toString())
 		data.setMonth(data.getMonth()+ 1)
 		document.write('<hr />')
 		document.write(data.toString())
+
+		document.write('<br />br /><hr />')
+		// add um ano a data
+		document.write(data.toString())
+		data.setFullYear(data.getFullYear()+ 1)
+		document.write('<hr />')
+		document.write(data.toString())
+
+
 	
 		/*	<!--data.getDate()
         document.write(data)
