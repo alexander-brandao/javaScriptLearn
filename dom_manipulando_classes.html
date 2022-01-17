@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>JavaScript</title>
+        <style>
+
+            .classe1{
+                background: #000;
+                color:aliceblue;
+            }
+            .classe2{
+                width:100px;
+                height:100px;
+                background: #254;
+                color:white;
+                font-size:30px;
+
+            }
+        </style>
+        <script>
+            function modificarClasse(){
+
+                if(document.getElementById('mensagem').className == 'classe2'){
+                    document.getElementById('mensagem').className = 'classe1'
+                } else{
+                    document.getElementById('mensagem').className = 'classe2'
+                }
+            }              
+        </script>
+
+	
+    </head>
+        <body>
+            <div id="mensagem" class="classe1" >
+                Modificando classe
+            </div>
+                <hr/>
+            <button type="button" onClick="modificarClasse()">Aplicar classe</button>
+            
+        </body>   
+</html>
